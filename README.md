@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Xie!
-- 👀 I’m currently a Full Stack Developer at Nexgen Distro. Right now, that includes doing everything from DevOps to WebDev, to Robotics programming.
+- 👀 I’m currently a Software Engineer at Snap Inc.
 - 💞️ If you see anything that catches your eye in here, and you would like to work on something with me, feel free to reach out using my contact information below.
 - 📫 How to reach me 
 Email: mxie0114@gmail.com
