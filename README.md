@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michael Xie!
-- 👀 I’m currently a Software Engineer at Snap Inc. and student at Georgia Tech's OMSCS Program
+- 👀 I’m currently serching for SWE/MLE roles while studying at Georgia Tech's OMSCS Program
 - 💞️ If you see anything that catches your eye in here, and you would like to work on something with me, feel free to reach out using my contact information below.
 - 📫 How to reach me 
 Email: mxie0114@gmail.com
